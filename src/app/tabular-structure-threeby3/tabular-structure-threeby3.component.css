@@ -1,0 +1,13 @@
+table {
+    width: 600px;
+    text-align: center;
+    background-color: bisque;
+}
+tr:hover {
+    background-color: blue;
+}
+
+th {
+    border-bottom: 2px solid blue;
+    border-top: 2px solid black;
+}

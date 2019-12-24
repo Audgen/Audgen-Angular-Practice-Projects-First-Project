@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { TabularStructureThreeby3Component } from './tabular-structure-threeby3/tabular-structure-threeby3.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TabularStructureThreeby3Component
   ],
   imports: [
     BrowserModule,
